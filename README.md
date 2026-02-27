@@ -287,17 +287,6 @@ matselect/
 
 ---
 
-## Why This Gets 500+ Stars
-
-✅ **Solves real pain** (saves 10-20 hours per project)  
-✅ **Production quality** (real APIs, not toy data)  
-✅ **Shows AI/ML expertise** (property prediction, optimization)  
-✅ **Unique value** (nothing combines all these features)  
-✅ **Clear ROI** (time saved = money saved)  
-✅ **Extensible** (easy to add new data sources)
-
----
-
 ## Roadmap
 
 ### v0.1.0 (Current)
